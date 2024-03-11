@@ -5,14 +5,15 @@ project:
 website:
   title: "quarto5"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
 
 format:
   html:
-    theme: darkly
+    theme: cosmos
     css: styles.css
     toc: true
 
