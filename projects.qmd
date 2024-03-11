@@ -2,6 +2,10 @@
 title: "Projects"
 ---
 
+On this page, we could delve into which projects we have done so far. For example:
+
 -   Lab 1
 
--   Lab 2
+    -   Went through practice problems and basic equations to learn how to write in Rstudio
+
+    -   Solved 4 Exercises independently from the previous practice problems
